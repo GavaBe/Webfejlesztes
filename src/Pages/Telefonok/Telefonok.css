@@ -1,0 +1,43 @@
+div>h1{
+    text-align: center;
+    margin-top: 3vh;
+    margin-bottom: 5vh;
+}
+
+div>.table{
+    margin: auto;
+    width: max-content;
+    text-align: center;
+}
+
+button.Delete.btn.btn-primary{
+    margin-right: 1rem;
+    background-color: red;
+    border: none;
+    border-radius: 0;
+}
+button.Update.btn.btn-primary{
+    background-color: springgreen;
+    color: black;
+    border: none;
+    border-radius: 0;
+}
+button.Update.btn.btn-primary>a{
+    text-decoration: none;
+    color: black;
+}
+
+.stl{
+    text-align: center;
+}
+
+button.Add.btn.btn-primary{
+    margin-top: 5vh;
+    background-color: steelblue;
+    border-radius: 0;
+    border: none;
+}
+button.Add.btn.btn-primary>a{
+    text-decoration: none;
+    color: whitesmoke;
+}
